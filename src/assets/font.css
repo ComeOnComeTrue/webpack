@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 1837991 */
+  src: url('./font/iconfont.eot');
+  src: url('./font/iconfont.eot?#iefix') format('embedded-opentype'),
+  url('./font/iconfont.woff2') format('woff2'),
+  url('./font/iconfont.woff') format('woff'),
+  url('./font/iconfont.ttf') format('truetype'),
+  url('./font/iconfont.svg#iconfont') format('svg');
+}
+  
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icongeren6:before {
+  content: "\e627";
+}
+
+.icongouwuche:before {
+  content: "\e636";
+}
+
+.iconshouye:before {
+  content: "\e6d5";
+}
+
+.iconsousuo:before {
+  content: "\e68f";
+}
+
+.iconshouye1:before {
+  content: "\e607";
+}
+
+.iconsousuo1:before {
+  content: "\e68d";
+}
+
+.iconhuabanfuben:before {
+  content: "\e604";
+}
+
+.iconB:before {
+  content: "\e709";
+}
